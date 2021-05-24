@@ -13,4 +13,6 @@ This app allows users to track their progress on their daily workout routines. U
 
 ![Homepage](public/assets/home.png)
 ![Dashboard](public/assets/dashboard.png)
+![Cardio](public/assets/cardio.png)
+![Resistance](public/assets/resistance.png)
 
