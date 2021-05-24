@@ -11,7 +11,6 @@
 
 This app allows users to track their progress on their daily workout routines. Users are able to input multiple exercises with details such as weights lifted, reps, sets, as well as distance ran and timing. 
 
-![Homepage](/assets/home.png)
-
-![Dashboard](/assets/dashboard.png)
+![Homepage](public/assets/home.png)
+![Dashboard](public/assets/dashboard.png)
 
